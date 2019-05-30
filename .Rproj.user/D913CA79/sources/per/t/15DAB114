@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549928259482.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2666712112",
+    "id" : "15DAB114",
+    "lastKnownWriteTime" : 1549928734,
+    "last_content_update" : 1549929582735,
+    "path" : "C:/Users/Adam/Desktop/Study/Lloyd's Data Science/Mapping/LondonBoroughsChloropleth_v6.R",
+    "project_path" : "LondonBoroughsChloropleth_v6.R",
+    "properties" : {
+        "cursorPosition" : "95,65",
+        "scrollLine" : "76",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
