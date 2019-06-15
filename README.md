@@ -38,7 +38,7 @@ It is important to note that correlation does not prove causation and it is not 
 
 
 
-### Create the choropleths for yourself
+## Create the choropleths for yourself
 
 Simply copy the repo and run through the code in LondonBoroughsChoropleth.R. 
 
@@ -102,9 +102,6 @@ There is code to create three choropleths from the FRS data: showing attendance 
 
 The same process is followed to create a choropleth of poverty rates.
 
-## Author
-
-* **Adam Alnak**
 
 ## Acknowledgements
 
